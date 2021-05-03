@@ -335,6 +335,7 @@ section.video button i {
 section.contact {
     background-color: #131313;
     padding: 60px 0 40px;
+    margin-top: 80px;
 }
 
 section.contact .contact-us .title h4 {
